@@ -580,4 +580,28 @@ summary{
 
 
 
+.servicesPage{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    padding: 50px;
+    text-align: center;
+}
+.servicesPage h1{
+    font-size: 3em;
+}
+.servicesPara{
+    font-size: 1em;
+    max-width: 700px;
+    margin: auto;
+   
+}
+
+
+
+
+
+
+
+
+
 
